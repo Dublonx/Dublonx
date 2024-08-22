@@ -1,4 +1,4 @@
-![Alt Text](https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b9525mideh6a92emt38y5i6zs0uwwsc9hq1k01np1tm3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+to![Alt Text](https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b9525mideh6a92emt38y5i6zs0uwwsc9hq1k01np1tm3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## Connect with me
 
@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
 
 ## Profile Visit
-![Profile Visit](https://github.com/Dublonx)
+![Hits](https://github.com/Dublonx)
 
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
