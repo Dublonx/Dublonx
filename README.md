@@ -4,9 +4,7 @@ to![Alt Text](https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b95
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/six.jmd?mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
-
-## Profile Visit
-![Hits](https://github.com/Dublonx)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/Dublonx)
 
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
