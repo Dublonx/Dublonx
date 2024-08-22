@@ -6,6 +6,14 @@ to![Alt Text](https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b95
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=181717)](https://github.com/Dublonx)
 
+## Hobbies
+- Gaming 🎮
+- Coding 💻
+- Basketball 🏀
+
+## Profile Visit
+![Profile Visit](https://komarev.com/ghpvc/?username=Dublonx&color=blue)
+
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
 - 🌱 I’m currently learning : Front-End
