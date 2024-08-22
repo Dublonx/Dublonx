@@ -1,5 +1,10 @@
 ![Alt Text](https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b9525mideh6a92emt38y5i6zs0uwwsc9hq1k01np1tm3&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
+## Connect with me
+-[Facebook](https://www.facebook.com/six.jmd?mibextid=ZbWKwL)
+-[Instagram](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
+-[Gmail](dublonjm17@gmail.com)
+
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
 - 🌱 I’m currently learning : Front-End
