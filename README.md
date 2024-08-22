@@ -21,6 +21,7 @@
 ## Profile Visit
 ![Profile Visit](https://komarev.com/ghpvc/?username=Dublonx&color=green)
 
+<!--
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
 - 🌱 I’m currently learning : Front-End
@@ -28,6 +29,7 @@
 - 📫 How to reach me : dublonjm17@gmail.com
 - 😄 Pronouns: dublon, jm, jmd
 - ⚡ Fun fact: kaya pala ayaw ng mga bugs sa liwanag kasi mas gusto pala nila sa dilim
+-->
 
 <!---
 Dublonx/Dublonx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
