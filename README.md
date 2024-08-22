@@ -2,7 +2,7 @@
 - 👀 I’m interested in : Coding
 - 🌱 I’m currently learning : Front-End
 - 💞️ I’m looking to collaborate on : Projects
-- 📫 How to reach me : Contact: dublonjm17@gmail.com
+- 📫 How to reach me : dublonjm17@gmail.com
 - 😄 Pronouns: dublon, jm, jmd
 - ⚡ Fun fact: kaya pala ayaw ng mga bugs sa liwanag kasi mas gusto pala nila sa dilim
 
