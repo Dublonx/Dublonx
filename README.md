@@ -1,4 +1,4 @@
-![Alt Text](https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b9528igmkb91dekmg1j209as4brrwb1y4nnxhjztsnt4&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![Alt Text](https://www.canva.com/design/DAGPZhmRVMg/kJR28EKoyEcSniYd0tBh9Q/edit?utm_content=DAGPZhmRVMg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Connect with me
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/six.jmd?mibextid=ZbWKwL)
