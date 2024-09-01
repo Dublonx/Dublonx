@@ -26,6 +26,9 @@
 - Coding 💻
 - Playing Online Games 🎮
 
+# Profile Visits
+![Profile Visits](https://img.shields.io/badge/Profile%20Visits-1000-blue?style=flat-square)
+
 <!--
 - 👋 Hi, I’m @Dublonx
 - 👀 I’m interested in : Coding
