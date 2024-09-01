@@ -19,8 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Profile Visit
-![Profile Visit](https://komarev.com/ghpvc/?username=Dublonx&color=green)
+## Profile Visits
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/get/yourusername/profilevisits)
 
 <!--
 - 👋 Hi, I’m @Dublonx
