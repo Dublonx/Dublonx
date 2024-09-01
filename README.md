@@ -8,8 +8,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sixjmd?_t=8pMZnsfz5cN&_r=1)
 
-# Connect Me
-[![Gmail](https://img.shields.io/badge/Gmail-dublonjm17%40gmail.com-blue)](mailto:dublonjm17@gmail.com)
+# Contact Me
+![Gmail](https://img.shields.io/badge/Gmail-dublonjm17%40gmail.com-blue)
 
 # Skills and Technologies
 ### Programming
