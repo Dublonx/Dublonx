@@ -9,7 +9,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@sixjmd?_t=8pMZnsfz5cN&_r=1)
 
 # Connect Me
-- [Email me](mailto:dublonjm17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-dublonjm17%40gmail.com-blue)](mailto:dublonjm17@gmail.com)
 
 # Skills and Technologies
 ### Programming
