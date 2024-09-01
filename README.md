@@ -1,7 +1,9 @@
 ![Alt Text](https://media1.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=6c09b952govk145r1itdwvjqw068pnlgrw6kc49ebu6dbnkt&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 # Introduction
-- Hi, I'm John Michael E Dulon, I'm Interested in Coding and I'm Currently learning Front-end (Path)
+- Hi, I'm John Michael E Dulon,
+- I'm Interested in Coding and
+- I'm Currently learning Front-end (Path)
 
 # Social Links
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/six.jmd)
@@ -27,7 +29,7 @@
 - Playing Online Games 🎮
 
 # Profile Visits
-![Views](https://komarev.com/ghpvc/?username=your-dublonx&label=Profile%20Views&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=your-dublonx&label=Profile%20Views&color=blue)
 
 <!--
 - 👋 Hi, I’m @Dublonx
