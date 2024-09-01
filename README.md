@@ -27,7 +27,7 @@
 - Playing Online Games 🎮
 
 # Profile Visits
-![Profile Views](https://komarev.com/ghpvc/?username=your-dublonx&label=Profile%20Views&color=blue)
+![Views](https://komarev.com/ghpvc/?username=your-dublonx&label=Profile%20Views&color=blue)
 
 <!--
 - 👋 Hi, I’m @Dublonx
