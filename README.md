@@ -27,7 +27,7 @@
 - Playing Online Games 🎮
 
 # Profile Visits
-![Profile Visits](https://img.shields.io/badge/Profile%20Visits-1000-blue?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=your-dublonx&label=Profile%20Views&color=blue)
 
 <!--
 - 👋 Hi, I’m @Dublonx
