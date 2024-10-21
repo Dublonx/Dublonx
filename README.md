@@ -6,12 +6,12 @@
 - I'm Interested in Web Development and Video Editing
 
 # Social Links
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/six.jmd)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/six_jmd?igsh=MWMwbzZ6ZmxwdjZtMw==)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@six_jmd?_t=8qGZBjmu24e&_r=1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aav.luv?mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dublon.x/profilecard/?igsh=aWRjNXdzdWNtOXc3)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dublon.xz?_t=8qiVk8fdU0u&_r=1)
 
 # Contact Me
-![Gmail](https://img.shields.io/badge/Gmail-dublonjm17%40gmail.com-blue)
+![Gmail](https://img.shields.io/badge/gmail-dublonjm17%40gmail.com-blue)
 
 # Skills and Tools
 #### Programming
