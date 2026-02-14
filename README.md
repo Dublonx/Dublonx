@@ -1,6 +1,6 @@
 # Hello There 👋
 
-`` Junior Frontend Developer ``
+`` Junior Frontend Developer | Graphic Designer ``
 
 I'm Jm Dublon a Motivated aspiring Frontend Developer focused on learning and applying frontend technologies to build engaging and responsive web applications. Eager to grow, experiment, and contribute.
 
