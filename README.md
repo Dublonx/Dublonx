@@ -1,6 +1,6 @@
 # Hello There 👋
 
-`` Junior Frontend Developer | Graphic Designer ``
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Developer;Graphic+Designer)
 
 I'm Jm Dublon a Motivated aspiring Frontend Developer focused on learning and applying frontend technologies to build engaging and responsive web applications. Eager to grow, experiment, and contribute.
 
@@ -19,13 +19,10 @@ I'm Jm Dublon a Motivated aspiring Frontend Developer focused on learning and ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Currently Learning ☘️
+## Streak 🔥
 
-- CSS Responsive Web Design
-- Git and GitHub
-- Javascript
+![GitHub Streak](https://streak-stats.demolab.com/?user=dublonx&theme=tokyonight)
 
-## Stats 🔥
+## Profile Views 👁️
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dublonx&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dublonx&layout=compact&theme=radical)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dublonx.dublonx)
