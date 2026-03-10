@@ -19,10 +19,6 @@ I'm Jm Dublon a Motivated aspiring Frontend Developer focused on learning and ap
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Streak 🔥
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dublonx&theme=tokyonight)
-
 ## Profile Views 👁️
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dublonx.dublonx)
