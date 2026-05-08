@@ -2,11 +2,9 @@
 
 <p align="center">Aspiring Software Developer based in the Philippines.</p>
 
----
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Developer;Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Developer)](https://git.io/typing-svg)
 
 <br>
 
@@ -18,5 +16,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=Dublonx&theme=radical" />
+
 
 </div>
