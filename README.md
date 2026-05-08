@@ -19,8 +19,7 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=radical" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true)
 <img src="https://streak-stats.demolab.com?user=Dublonx&theme=radical" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact)
 
 </div>
