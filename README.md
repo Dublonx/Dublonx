@@ -1,6 +1,6 @@
 <h2 align="center">Hey There, I am Jm Dublon!</h2>
 
-<p align="center">Aspiring Software Developer based in the Philippines.</p>
+<p align="center">Most of the devs prefer dark mode :v</p>
 
 <div align="center">
 
