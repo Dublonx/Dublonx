@@ -1,4 +1,4 @@
-<h2 align="center">Hey There, I am Jm Dublon!</h2>
+<h2 align="center">Hey There, I am Jmxnz!</h2>
 
 <p align="center">Most of the devs prefer dark mode :v</p>
 
