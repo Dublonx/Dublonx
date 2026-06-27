@@ -23,7 +23,7 @@ Tech Stack 💻
 
 Github Stats 🔥
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=tokyonight" width="32%" />
 
 Github Top Languages 🔥
 
