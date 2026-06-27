@@ -23,6 +23,6 @@ Tech Stack 💻
 
 <img src="https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=tokyonight" width="32%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight" width="32%">
-<img src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight)](https://git.io/streak-stats" width="32%">
+<img src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight" width="32%">
 
 </div>
