@@ -8,6 +8,8 @@
 
 ---
 
+Tech Stack 💻
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -19,8 +21,16 @@
 
 ---
 
+Github Stats 🔥
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=tokyonight)
+
+Github Top Languages 🔥
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight)
+
+Github Streak 🔥
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
