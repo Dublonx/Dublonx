@@ -23,8 +23,8 @@
 
 <h3 align="center">Github Activities 🔥 </h3>
 
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dublonx&theme=tokyonight)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dublonx&theme=tokyonight" width="40%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph" width="40%">
+
 
 </div>
