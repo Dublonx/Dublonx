@@ -24,10 +24,7 @@
 <h3 align="center">Github Activities 🔥 </h3>
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dublonx&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight&hide_border=true)
-![Dublon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Snake animation](https://raw.githubusercontent.com/Dublonx/Dublonx/output/github-contribution-grid-snake-dark.svg)
-
-<img src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight)
 
 </div>
