@@ -28,5 +28,10 @@
 
 <img src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight&hide_border=true" />
 
+---
+
+<h3 align="center">Profile Visitor's</h3>
+
+<img src="https://komarev.com/ghpvc/?username=Dublonx&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
