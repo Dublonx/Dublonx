@@ -1,4 +1,4 @@
-![Github Banner](Images/banner1.jpg)
+![Github Banner](Images/banner.jpg)
 
 <div align="center">
 
