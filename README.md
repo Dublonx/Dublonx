@@ -24,7 +24,7 @@
 <h3 align="center">Github Activities 🔥 </h3>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dublonx&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dublonx&theme=tokyonight">
+<img width="49%<" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dublonx&theme=tokyonight" />
 
 
 </div>
