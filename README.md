@@ -24,7 +24,7 @@
 <h3 align="center">Github Activities 🔥 </h3>
 
 ![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dublonx&theme=tokyonight)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight" width="40%" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&layout=compact&theme=tokyonight&hide_border=true)
 
 <img src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight">
 
