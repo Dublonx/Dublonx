@@ -24,8 +24,8 @@ Frontend Developer | Graphic Designer | Video Editor
 
 ### Github Activities 🔥
 
-<img width="64%" src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight"/>
-<img width="64%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night"/>
+<img width="40%" src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night"/>
 
 ---
 
