@@ -22,6 +22,13 @@ Frontend Developer | Graphic Designer | Video Editor
 
 ---
 
+### Github Activities 🔥
+
+<img width="64%" src="https://streak-stats.demolab.com?user=Dublonx&theme=tokyonight"/>
+<img width="64%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dublonx&theme=tokyo-night"/>
+
+---
+
 ### Profile Views 👁
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dublonx&style=for-the-badge&color=blueviolet)
