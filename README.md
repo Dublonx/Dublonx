@@ -22,12 +22,5 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
 
----
-
-#### Github Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dublonx&show_icons=true&theme=tokyonight&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dublonx&theme=tokyonight&hide_border=true">
-
 
 </div>
